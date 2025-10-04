@@ -15,7 +15,7 @@ The website is built using modern web technologies:
 
 | Frontend         | Styling         | Scripts           |
 |------------------|-----------------|-------------------|
-| HTML5            | CSS3            | JavaScript (ES6)  |
+|      HTML5       |     CSS3        |    JavaScript     |
 | Responsive Design| Flexbox & Grid  | DOM Manipulation  |
 | SEO Basics       | Animations      | Event Handling    |
 
@@ -25,11 +25,11 @@ Here are some key sections of the website:
 - **Home / Introduction**  
   ![Home Screenshot](preview/home.png)
 
-- **Skills Section**  
-  ![Skills Screenshot](preview/skills.png)
+- **About Section**  
+  ![About Screenshot](preview/about.png)
 
 - **Skills Section**  
-  ![About Screenshot](preview/about.png)
+  ![Skills Screenshot](preview/skills.png)
 
 - **Contact Section**  
   ![Contact Screenshot](preview/contact.png)
