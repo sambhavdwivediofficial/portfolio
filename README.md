@@ -22,16 +22,16 @@ The website is built using modern web technologies:
 ## Screenshots
 Here are some key sections of the website:
 
-- **Home / Introduction**  
+- **Home**  
   ![Home Screenshot](preview/home.png)
 
-- **About Section**  
+- **About**  
   ![About Screenshot](preview/about.png)
 
-- **Skills Section**  
+- **Skills**  
   ![Skills Screenshot](preview/skills.png)
 
-- **Contact Section**  
+- **Contact**  
   ![Contact Screenshot](preview/contact.png)
 
 
