@@ -1,4 +1,4 @@
-# Sambhav Dwivedi \
+# Sambhav Dwivedi 
 Portfolio Website
 
 ![Home Screenshot](preview/home.png)
