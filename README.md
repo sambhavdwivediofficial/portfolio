@@ -28,6 +28,9 @@ Here are some key sections of the website:
 - **Skills Section**  
   ![Skills Screenshot](preview/skills.png)
 
+- **Skills Section**  
+  ![About Screenshot](preview/about.png)
+
 - **Contact Section**  
   ![Contact Screenshot](preview/contact.png)
 
