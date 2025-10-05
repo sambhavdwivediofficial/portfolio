@@ -1,4 +1,4 @@
-# Sambhav Dwivedi \
+# Sambhav Dwivedi 
 Portfolio Website
 
 ![Home Screenshot](preview/home.png)
@@ -15,20 +15,23 @@ The website is built using modern web technologies:
 
 | Frontend         | Styling         | Scripts           |
 |------------------|-----------------|-------------------|
-| HTML5            | CSS3            | JavaScript (ES6)  |
+|      HTML5       |     CSS3        |    JavaScript     |
 | Responsive Design| Flexbox & Grid  | DOM Manipulation  |
 | SEO Basics       | Animations      | Event Handling    |
 
 ## Screenshots
 Here are some key sections of the website:
 
-- **Home / Introduction**  
+- **Home**  
   ![Home Screenshot](preview/home.png)
 
-- **Skills Section**  
+- **About**  
+  ![About Screenshot](preview/about.png)
+
+- **Skills**  
   ![Skills Screenshot](preview/skills.png)
 
-- **Contact Section**  
+- **Contact**  
   ![Contact Screenshot](preview/contact.png)
 
 
