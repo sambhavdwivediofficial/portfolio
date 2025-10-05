@@ -31,6 +31,9 @@ Here are some key sections of the website:
 - **Skills**  
   ![Skills Screenshot](preview/skills.png)
 
+- **Work**  
+  ![Work Screenshot](preview/work.png)
+
 - **Contact**  
   ![Contact Screenshot](preview/contact.png)
 
