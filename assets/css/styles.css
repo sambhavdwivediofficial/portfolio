@@ -353,13 +353,6 @@ img {
   overflow: hidden;
   cursor: none;
 }
-
-.work__img:active,
-.work__img:focus {
-  pointer-events: none;
-
-}
-
 .work__img img {
  transition: transform 1s ease; 
   border-radius: 0.5rem;
