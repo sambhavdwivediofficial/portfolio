@@ -202,3 +202,11 @@ document.querySelectorAll('.nav__link').forEach(link => {
     }
   });
 });
+ScrollReveal().reveal('.work__arrow', { 
+    origin: 'top',
+    origin: 'bottom', 
+    distance: '200px', 
+    duration: 1000, 
+    delay: 150,
+    reset: true
+});
